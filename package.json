@@ -1,0 +1,13 @@
+{
+  "name": "ultravoxtt",
+  "version": "1.0.0",
+  "description": "Servidor Node.js integrando Twilio e Ultravox AI para agente de voz",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "twilio": "^5.0.0"
+  }
+}
